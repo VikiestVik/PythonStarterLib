@@ -1,0 +1,1 @@
+All types of lists are supported by the conversion, with the exception of lists that use fancy bullets, these get converted to regular bullets.

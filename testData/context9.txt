@@ -1,0 +1,1 @@
+Two kinds of links are possible, those that refer to an external website and those that refer to locations inside the document itself. Both are supported by calibre. For example, here is a link pointing to the . Then we have a link that points back to the section on  in this document.
