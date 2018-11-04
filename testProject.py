@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Aug 30 21:04:24 2018
-
-@author: HP
+@author: Vikiest Vik
 """
 
 import os
